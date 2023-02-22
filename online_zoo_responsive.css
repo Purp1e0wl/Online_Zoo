@@ -1,0 +1,1217 @@
+@media screen and (max-width: 1440px) {
+  header {
+    height: 100px;
+    padding: 0 100px;
+    justify-content: space-between;
+  }
+
+  header > img {
+    width: 120px;
+    height: 90px;
+  }
+
+  .header-search-nav-container {
+    flex-direction: row;
+    align-items: center;
+  }
+
+  .header-search {
+    height: 50px;
+    font-size: 26px;
+    width: 200px;
+  }
+
+  .header-search-nav-container > nav > ul > li {
+    margin-left: 40px;
+  }
+
+  .header-search-nav-container > nav > ul > li > p {
+    font-size: 26px;
+    white-space: nowrap;
+  }
+
+  header > span {
+    font-size: 26px;
+  }
+
+  .watch-online-container {
+    padding: 10px 0;
+  }
+
+  .watch-online-content-block {
+    margin-right: 10%;
+  }
+
+  .watch-online-content-block > input {
+    width: 400px;
+    height: 80px;
+    margin-left: 50px;
+    margin-top: 100px;
+    font-size: 26px;
+    border-radius: 50px;
+  }
+
+  .choose-your-favorite-container {
+    padding: 80px 100px;
+    overflow-x: hidden;
+  }
+
+  .choose-your-favorite-container-flower-photo {
+    right: -20px;
+  }
+
+  .backstage-wilderness-world-block > img {
+  width: 550px;
+  height: 600px;
+  }
+
+  .backstage-wilderness-world-block-text {
+    margin-left: 30px;
+  }
+
+  .backstage-wilderness-world-block-text > h2 {
+    font-size: 60px;
+  }
+
+  .backstage-wilderness-world-block-text > h4 {
+    font-size: 40px;
+    margin-top: 60px;
+    margin-bottom: 40px;
+  }
+
+  .backstage-wilderness-world-block-text > p {
+    font-size: 26px;
+  }
+
+  .animals-photos-block {
+    grid-template-columns: repeat(2, 600px);
+    grid-column-gap: 35px;
+    margin-top: 300px;
+  }
+
+  .animals-photos-block > div {
+    width: 600px;
+    height: 710px;
+  }
+
+  .animals-photos-block-pandas-text-icon,
+  .animals-photos-block-eagles-text-icon,
+  .animals-photos-block-gorillas-text-icon,
+  .animals-photos-block-sloth-text-icon,
+  .animals-photos-block-cheetahs-text-icon,
+  .animals-photos-block-penguins-text-icon {
+    padding: 15px 15px;
+    align-items: center;
+  }
+
+  .animals-photos-block-pandas-text-icon > img,
+  .animals-photos-block-gorillas-text-icon > img,
+  .animals-photos-block-sloth-text-icon > img {
+    width: 70px;
+    height: 65px;
+  }
+
+  .animals-photos-block-eagles-text-icon > img,
+  .animals-photos-block-cheetahs-text-icon > img,
+  .animals-photos-block-penguins-text-icon > img {
+    width: 90px;
+    height: 80px;
+  }
+
+  .animals-photos-block-pandas-text > h5,
+  .animals-photos-block-eagles-text > h5,
+  .animals-photos-block-gorillas-text > h5,
+  .animals-photos-block-sloth-text > h5,
+  .animals-photos-block-cheetahs-text > h5,
+  .animals-photos-block-penguins-text > h5 {
+    font-size: 32px;
+  }
+
+    .animals-photos-block-pandas-text > p,
+    .animals-photos-block-eagles-text > p,
+    .animals-photos-block-gorillas-text > p,
+    .animals-photos-block-sloth-text > p,
+    .animals-photos-block-cheetahs-text > p,
+    .animals-photos-block-penguins-text > p {
+      font-size: 30px;
+    }
+
+  .animals-photos-block-arrow-left, .animals-photos-block-arrow-right {
+    width: 100px;
+    height: 100px;
+  }
+
+  .animals-photos-block-arrow-left {
+    top: -120px;
+    left: 567px;
+    transform: rotate(90deg);
+  }
+
+  .animals-photos-block-arrow-right {
+    top: 2220px;
+    left: 567px;
+    bottom: 0;
+    right: 0;
+    transform: rotate(90deg);
+  }
+
+  .choose-your-favorite-container > input {
+    width: 400px;
+    height: 80px;
+    margin-top: 250px;
+    font-size: 26px;
+    border-radius: 50px;
+  }
+
+  .pick-and-feed-container {
+    padding: 70px 100px;
+    height: 1300px;
+  }
+
+  .pick-and-feed-block {
+    padding: 30px 60px;
+  }
+
+  .pick-and-feed-block > h2 {
+    font-size: 72px;
+  }
+
+  .pick-and-feed-text-block > p {
+    font-size: 36px;
+  }
+
+  .pick-and-feed-block-main-text > h4 {
+    font-size: 30px;
+}
+
+  .pick-and-feed-block-main-text > p {
+    font-size: 30px;
+  }
+
+  .pick-and-feed-block > h3 {
+  font-size: 48px;
+  }
+
+  .how-it-works-pic-block > img {
+    width: 150px;
+    height: 100px;
+  }
+
+  .how-it-works-pic-payment > img,
+  .how-it-works-pic-zoo > img,
+  .how-it-works-pic-monkey > img {
+    width: 230px;
+    height: 230px;
+  }
+  
+  .how-it-works-pic-payment > p,
+  .how-it-works-pic-zoo > p,
+  .how-it-works-pic-monkey > p {
+    font-size: 26px;
+    margin-top: 10px;
+  }
+
+  .pick-and-feed-block > input {
+    width: 400px;
+    height: 80px;
+    margin-top: 80px;
+    font-size: 26px;
+    border-radius: 50px;
+  }
+
+  .testimonials-container {
+    padding: 80px 100px;
+  }
+
+  .testimonials-container > h3 {
+    font-size: 72px;
+  }
+
+  .testimonials-feedbacks {
+    margin-top: 30px;
+  }
+
+  .testimonials-feedbacks-michael, .testimonials-feedbacks-oskar, .testimonials-feedbacks-fredericka {
+    width: 400px;
+    height: 600px;
+    padding: 20px 15px;
+  }
+
+  .testimonials-feedbacks-mila {
+    display: none;
+  }
+
+  .testimonials-feedbacks-michael-cap > img,
+  .testimonials-feedbacks-oskar-cap > img,
+  .testimonials-feedbacks-fredericka-cap > img {
+    width: 70px;
+    height: 70px;
+  }
+
+  .testimonials-feedbacks-michael-cap-text > h5,
+  .testimonials-feedbacks-oskar-cap-text > h5,
+  .testimonials-feedbacks-fredericka-cap-text > h5 {
+    font-size: 30px;
+  }
+
+  .testimonials-feedbacks-michael-cap-text > p,
+  .testimonials-feedbacks-oskar-cap-text > p,
+  .testimonials-feedbacks-fredericka-cap-text > p {
+    font-size: 24px;
+  }
+
+  .testimonials-feedbacks-michael-content > p,
+  .testimonials-feedbacks-oskar-content > p,
+  .testimonials-feedbacks-fredericka-content > p {
+    font-size: 25px;
+    line-height: 28px;
+  }
+
+  .testimonials-scrollbar {
+    margin-top: 50px;
+    width: 800px;
+    height: 15px;
+    border: 2px solid #FE9013;
+  }
+
+  .testimonials-scrollbar-scroller {
+    width: 180px;
+    height: 12px;
+  }
+
+  .testimonials-container > input {
+    width: 400px;
+    height: 80px;
+    font-size: 26px;
+    margin-top: 50px;
+  }
+
+  footer {
+    padding: 30px 100px;
+  }
+
+  .footer-highest-block > img {
+    width: 120px;
+    height: 90px;
+  }
+
+  .footer-subscribe-submit > p {
+    font-size: 32px;
+  }
+
+  .footer-email {
+    width: 320px;
+    height: 60px;
+    font-size: 24px;
+  }
+
+  .footer-submit {
+    width: 200px;
+    height: 60px;
+    font-size: 30px;
+    margin-left: 30px;
+  }
+
+  footer > input {
+    width: 400px;
+    height: 80px;
+    font-size: 28px;
+    margin-top: 50px;
+  }
+
+  .footer-socials-blocks {
+    margin-top: 30px;
+  }
+
+  .footer-socials-blocks-icon {
+    width: 40px;
+    height: 40px;
+  }
+
+  .footer-socials-blocks-icon > img {
+    width: 20px;
+    height: 20px;
+  }
+
+  .footer-socials-blocks > p {
+    font-size: 30px;
+  }
+
+  .footer-socials-nav-rights > nav {
+    margin-left: 250px;
+  }
+
+  .footer-socials-nav-rights > nav > ul > li > p {
+    font-size: 26px;
+    margin-right: 40px;
+    white-space: nowrap;
+  }
+
+  .footer-socials-nav-rights > p {
+    font-size: 26px;
+    margin-left: 150px;
+  }
+
+  .footer-socials-nav-rights > p > br {
+    display: none;
+  }
+}
+
+
+
+
+/* --------------------------768px----------------------------- */
+
+@media screen and (max-width: 768px) {
+  header {
+    height: 300px;
+    padding: 0 30px;
+    justify-content: space-between;
+  }
+
+  header > img {
+    width: 220px;
+    height: 190px;
+  }
+
+  .header-search-nav-container {
+    flex-direction: column;
+    align-items: start;
+    width: auto;
+    height: 180px;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .header-search {
+    height: 100px;
+    font-size: 58px;
+    width: 760px;
+  }
+
+  .header-search-nav-container > nav > ul > li {
+    margin-left: 0;
+    margin-right: 40px;
+  }
+
+  .header-search-nav-container > nav > ul > li > p {
+    font-size: 40px;
+    white-space: nowrap;
+  }
+
+  header > span {
+    font-size: 50px;
+    white-space: normal;
+  }
+
+  .watch-online-container {
+    padding: 0 30px;
+  }
+
+  .watch-online-content-block {
+    margin-right: 10%;
+  }
+
+  .watch-online-content-block > input {
+    width: 600px;
+    height: 120px;
+    margin-left: 0;
+    margin-top: 100px;
+    font-size: 48px;
+    border-radius: 75px;
+  }
+
+  .choose-your-favorite-container {
+    padding: 50px 30px;
+    overflow-x: hidden;
+  }
+
+  .choose-your-favorite-container-flower-photo {
+    right: -20px;
+    height: 1400px;
+    width: 300px;
+  }
+
+  .backstage-wilderness-world-block {
+    flex-direction: column-reverse;
+  }
+
+  .backstage-wilderness-world-block > img {
+    width: 1400px;
+    height: 800px;
+  }
+
+  .backstage-wilderness-world-block-text {
+    margin-left: 0;
+    margin-bottom: 40px;
+    padding-right: 250px;
+  }
+
+  .backstage-wilderness-world-block-text > h2 {
+    font-size: 80px;
+    text-align: center;
+  }
+
+  .backstage-wilderness-world-block-text > h4 {
+    font-size: 72px;
+    margin-top: 60px;
+    margin-bottom: 40px;
+    text-align: center;
+  }
+
+  .backstage-wilderness-world-block-text > p {
+    font-size: 60px;
+  }
+
+  .animals-photos-block {
+    grid-template-columns: repeat(2, 680px);
+    grid-column-gap: 35px;
+    margin-top: 300px;
+  }
+
+  .animals-photos-block > div {
+    width: 680px;
+    height: 800px;
+  }
+
+  .animals-photos-block-pandas-text-icon,
+  .animals-photos-block-eagles-text-icon,
+  .animals-photos-block-gorillas-text-icon,
+  .animals-photos-block-sloth-text-icon,
+  .animals-photos-block-cheetahs-text-icon,
+  .animals-photos-block-penguins-text-icon {
+    padding: 15px 15px;
+    align-items: center;
+  }
+
+  .animals-photos-block-pandas-text-icon > img,
+  .animals-photos-block-gorillas-text-icon > img,
+  .animals-photos-block-sloth-text-icon > img {
+    width: 90px;
+    height: 90px;
+  }
+
+  .animals-photos-block-eagles-text-icon > img,
+  .animals-photos-block-cheetahs-text-icon > img,
+  .animals-photos-block-penguins-text-icon > img {
+    width: 120px;
+    height: 100px;
+  }
+
+  .animals-photos-block-pandas-text > h5,
+  .animals-photos-block-eagles-text > h5,
+  .animals-photos-block-gorillas-text > h5,
+  .animals-photos-block-sloth-text > h5,
+  .animals-photos-block-cheetahs-text > h5,
+  .animals-photos-block-penguins-text > h5 {
+    font-size: 42px;
+  }
+
+  .animals-photos-block-pandas-text > p,
+  .animals-photos-block-eagles-text > p,
+  .animals-photos-block-gorillas-text > p,
+  .animals-photos-block-sloth-text > p,
+  .animals-photos-block-cheetahs-text > p,
+  .animals-photos-block-penguins-text > p {
+    font-size: 40px;
+  }
+
+  .animals-photos-block-arrow-left,
+  .animals-photos-block-arrow-right {
+    width: 150px;
+    height: 150px;
+  }
+
+  .animals-photos-block-arrow-left {
+    top: -170px;
+    left: 625px;
+    transform: rotate(90deg);
+  }
+
+  .animals-photos-block-arrow-right {
+    top: 2500px;
+    left: 625px;
+    bottom: 0;
+    right: 0;
+    transform: rotate(90deg);
+  }
+
+  .choose-your-favorite-container > input {
+    width: 600px;
+    height: 120px;
+    margin-top: 250px;
+    font-size: 48px;
+    border-radius: 75px;
+  }
+
+  .pick-and-feed-container {
+    padding: 50px 30px;
+    height: auto;
+  }
+
+  .pick-and-feed-block {
+    padding: 30px 60px;
+  }
+
+  .pick-and-feed-block > h2 {
+    font-size: 96px;
+  }
+
+  .pick-and-feed-text-block > p {
+    font-size: 72px;
+  }
+
+  .pick-and-feed-block-main-text > h4 {
+    font-size: 60px;
+  }
+
+  .pick-and-feed-block-main-text > p {
+    font-size: 60px;
+  }
+
+  .pick-and-feed-block > h3 {
+    font-size: 72px;
+  }
+
+  .how-it-works-pic-block > img {
+    width: 150px;
+    height: 100px;
+  }
+
+  .how-it-works-pic-payment > img,
+  .how-it-works-pic-zoo > img,
+  .how-it-works-pic-monkey > img {
+    width: 300px;
+    height: 300px;
+  }
+
+  .how-it-works-pic-payment > p,
+  .how-it-works-pic-zoo > p,
+  .how-it-works-pic-monkey > p {
+    font-size: 48px;
+    margin-top: 10px;
+    margin-left: 70px;
+    text-align: center;
+  }
+
+  .pick-and-feed-block > input {
+    width: 600px;
+    height: 120px;
+    margin-top: 350px;
+    font-size: 48px;
+    border-radius: 75px;
+  }
+
+  .testimonials-container {
+    padding: 50px 30px;
+  }
+
+  .testimonials-container > h3 {
+    font-size: 96px;
+  }
+
+  .testimonials-feedbacks {
+    margin-top: 30px;
+  }
+
+  .testimonials-feedbacks-michael,
+  .testimonials-feedbacks-oskar {
+    width: 680px;
+    height: 1000px;
+    padding: 20px 15px;
+  }
+
+  .testimonials-feedbacks-mila,
+  .testimonials-feedbacks-fredericka {
+    display: none;
+  }
+
+  .testimonials-feedbacks-michael-cap > img,
+  .testimonials-feedbacks-oskar-cap > img,
+  .testimonials-feedbacks-fredericka-cap > img {
+    width: 140px;
+    height: 140px;
+  }
+
+  .testimonials-feedbacks-michael-cap-text>h5,
+  .testimonials-feedbacks-oskar-cap-text>h5,
+  .testimonials-feedbacks-fredericka-cap-text>h5 {
+    font-size: 62px;
+  }
+
+  .testimonials-feedbacks-michael-cap-text>p,
+  .testimonials-feedbacks-oskar-cap-text>p,
+  .testimonials-feedbacks-fredericka-cap-text>p {
+    font-size: 40px;
+  }
+
+  .testimonials-feedbacks-michael-content>p,
+  .testimonials-feedbacks-oskar-content>p,
+  .testimonials-feedbacks-fredericka-content>p {
+    font-size: 48px;
+    line-height: 58px;
+  }
+
+  .testimonials-scrollbar {
+    margin-top: 100px;
+    width: 800px;
+    height: 40px;
+    border: 2px solid #FE9013;
+    border-radius: 45px;
+  }
+
+  .testimonials-scrollbar-scroller {
+    width: 180px;
+    height: 36px;
+    border-radius: 45px;
+  }
+
+  .testimonials-container > input {
+    width: 600px;
+    height: 120px;
+    font-size: 48px;
+    margin-top: 75px;
+    margin-right: auto;
+    border-radius: 25px;
+  }
+
+  footer {
+    padding: 30px 30px;
+  }
+
+  .footer-highest-block > img {
+    width: 220px;
+    height: 190px;
+  }
+
+  .footer-subscribe-submit > p {
+    font-size: 55px;
+  }
+
+  .footer-email {
+    width: 480px;
+    height: 120px;
+    font-size: 48px;
+  }
+
+  .footer-submit {
+    width: 280px;
+    height: 120px;
+    font-size: 54px;
+    margin-left: 30px;
+  }
+
+  footer > input {
+    width: 580px;
+    height: 120px;
+    font-size: 45px;
+    margin-top: 150px;
+  }
+
+  .footer-socials-nav-rights {
+    flex-direction: column;
+    justify-content: baseline;
+    align-items: baseline;
+  }
+
+  .footer-socials {
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 150px;
+  }
+
+  .footer-socials-blocks {
+    margin-top: 0;
+    margin-right: 50px;
+  }
+
+  .footer-socials-blocks-icon {
+    width: 60px;
+    height: 60px;
+  }
+
+  .footer-socials-blocks-icon > img {
+    width: 30px;
+    height: 30px;
+  }
+
+  .footer-socials-blocks > p {
+    font-size: 58px;
+  }
+
+  .footer-socials-nav-rights > nav {
+    margin-left: 0;
+    margin-top: 150px;
+  }
+
+  .footer-socials-nav-rights > nav > ul {
+    justify-content: center;
+    margin-left: 160px;
+  }
+
+  .footer-socials-nav-rights > nav > ul > li {
+    margin-right: 60px;
+  }
+
+  .footer-socials-nav-rights > nav > ul > li > p {
+    font-size: 66px;
+    white-space: nowrap;
+  }
+
+  .footer-socials-nav-rights > p {
+    padding-left: 650px;
+    margin-top: 200px;
+    font-size: 48px;
+    margin-left: 0;
+  }
+
+  .footer-socials-nav-rights > p > br {
+    display: none;
+  }
+}
+
+
+
+
+
+
+  /* -----------------------------360px--------------------- */
+@media screen and (max-width: 360px) {
+  header {
+    height: 300px;
+    padding: 0 15px;
+    justify-content: space-between;
+  }
+
+  header > img {
+    width: 320px;
+    height: 250px;
+  }
+
+  .header-search-nav-container {
+    flex-direction: column;
+    align-items: start;
+    width: auto;
+    height: 180px;
+    margin-left: 20px;
+    margin-right: 0;
+  }
+
+  .header-search {
+    height: 150px;
+    font-size: 80px;
+    width: 1050px;
+    margin-bottom: 30px;
+  }
+
+  .header-search-nav-container > nav > ul > li {
+    margin-left: 0;
+    margin-right: 40px;
+  }
+
+  .header-search-nav-container > nav > ul > li > p {
+    font-size: 60px;
+    white-space: nowrap;
+  }
+
+  header > span {
+    display: none;
+  }
+
+  .watch-online-container {
+    padding: 0 15px;
+  }
+
+  .watch-online-content-block {
+    margin-right: 10%;
+  }
+
+  .watch-online-content-block > input {
+    width: 800px;
+    height: 150px;
+    margin-left: 0;
+    margin-top: 100px;
+    font-size: 72px;
+    border-radius: 150px;
+  }
+
+  .choose-your-favorite-container {
+    padding: 50px 15px;
+    overflow-x: hidden;
+  }
+
+  .choose-your-favorite-container-flower-photo {
+    top: 200px;
+    right: -20px;
+    height: 2000px;
+    width: 300px;
+  }
+
+  .backstage-wilderness-world-block {
+    flex-direction: column-reverse;
+    margin-left: 15px;
+  }
+
+  .backstage-wilderness-world-block > img {
+    width: 1400px;
+    height: 1000px;
+  }
+
+  .backstage-wilderness-world-block-text {
+    margin-left: 0;
+    margin-bottom: 40px;
+    padding-right: 250px;
+  }
+
+  .backstage-wilderness-world-block-text > h2 {
+    font-size: 112px;
+    text-align: center;
+  }
+
+  .backstage-wilderness-world-block-text > h4 {
+    font-size: 96px;
+    margin-top: 60px;
+    margin-bottom: 40px;
+    text-align: center;
+  }
+
+  .backstage-wilderness-world-block-text > p {
+    font-size: 84px;
+  }
+
+  .animals-photos-block {
+    grid-template-columns: repeat(1, 1360px);
+    grid-column-gap: 35px;
+    margin-top: 500px;
+  }
+
+  .animals-photos-block > div {
+    width: 1360px;
+    height: 1620px;
+    border: 10px solid #FE9013;
+  }
+
+  .animals-photos-block-pandas-text-icon,
+  .animals-photos-block-eagles-text-icon,
+  .animals-photos-block-gorillas-text-icon,
+  .animals-photos-block-sloth-text-icon,
+  .animals-photos-block-cheetahs-text-icon,
+  .animals-photos-block-penguins-text-icon {
+    padding: 25px 25px;
+    align-items: center;
+  }
+
+  .animals-photos-block-pandas-text-icon > img,
+  .animals-photos-block-gorillas-text-icon > img,
+  .animals-photos-block-sloth-text-icon > img {
+    width: 150px;
+    height: 150px;
+  }
+
+  .animals-photos-block-eagles-text-icon > img,
+  .animals-photos-block-cheetahs-text-icon > img,
+  .animals-photos-block-penguins-text-icon > img {
+    width: 220px;
+    height: 170px;
+  }
+
+  .animals-photos-block-pandas-text > h5,
+  .animals-photos-block-eagles-text > h5,
+  .animals-photos-block-gorillas-text > h5,
+  .animals-photos-block-sloth-text > h5,
+  .animals-photos-block-cheetahs-text > h5,
+  .animals-photos-block-penguins-text > h5 {
+    font-size: 96px;
+  }
+
+  .animals-photos-block-pandas-text > p,
+  .animals-photos-block-eagles-text > p,
+  .animals-photos-block-gorillas-text > p,
+  .animals-photos-block-sloth-text > p,
+  .animals-photos-block-cheetahs-text > p,
+  .animals-photos-block-penguins-text > p {
+    font-size: 72px;
+  }
+
+  .animals-photos-block-arrow-left,
+  .animals-photos-block-arrow-right {
+    width: 150px;
+    height: 150px;
+  }
+
+  .animals-photos-block-arrow-left {
+    top: -200px;
+    left: 625px;
+    transform: rotate(90deg);
+  }
+
+  .animals-photos-block-arrow-right {
+    top: 9950px;
+    left: 625px;
+    bottom: 0;
+    right: 0;
+    transform: rotate(90deg);
+  }
+
+  .choose-your-favorite-container > input {
+    width: 900px;
+    height: 150px;
+    margin-top: 400px;
+    font-size: 72px;
+    border-radius: 150px;
+    z-index: 1;
+  }
+
+  .choose-your-favorite-container-strelitzia-photo {
+    right: -100px;
+  }
+
+  .pick-and-feed-container {
+    padding: 50px 15px;
+    height: auto;
+  }
+
+  .pick-and-feed-block {
+    padding: 30px 40px;
+  }
+
+  .pick-and-feed-block > h2 {
+    font-size: 120px;
+  }
+
+  .pick-and-feed-text-block > p {
+    font-size: 96px;
+  }
+
+  .pick-and-feed-block-main-text > h4 {
+    font-size: 96px;
+  }
+
+  .pick-and-feed-block-main-text > p {
+    font-size: 80px;
+  }
+
+  .pick-and-feed-block > h3 {
+    font-size: 96px;
+    margin-top: 100px;
+    margin-bottom: 70px;
+  }
+
+  .how-it-works-pic-block {
+    margin-top: 0;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .how-it-works-pic-block > img {
+    width: 250px;
+    height: 150px;
+    transform: rotate(90deg);
+    margin: 150px 0;
+  }
+
+  .how-it-works-pic-payment > img,
+  .how-it-works-pic-zoo > img,
+  .how-it-works-pic-monkey > img {
+    width: 700px;
+    height: 700px;
+    margin-left: 350px;
+  }
+
+  .how-it-works-pic-payment > p,
+  .how-it-works-pic-zoo > p,
+  .how-it-works-pic-monkey > p {
+    width: 1400px;
+    height: auto;
+    font-size: 96px;
+    margin: 0;
+  }
+
+  .pick-and-feed-block > input {
+    width: 800px;
+    height: 150px;
+    margin-top: 150px;
+    font-size: 72px;
+    border-radius: 150px;
+  }
+
+  .testimonials-container {
+    padding: 50px 15px;
+  }
+
+  .testimonials-container > h3 {
+    font-size: 120px;
+  }
+
+  .testimonials-feedbacks {
+    margin-top: 60px;
+    flex-direction: column;
+  }
+
+  .testimonials-feedbacks-fredericka {
+    display: initial;
+  }
+
+  .testimonials-feedbacks-michael,
+  .testimonials-feedbacks-oskar,
+  .testimonials-feedbacks-fredericka {
+    width: 1320px;
+    height: 1900px;
+    padding: 30px 25px;
+    margin: 20px 0;
+    border: 10px solid #FE9013;
+    border-radius: 50px;
+    background: none;
+    box-shadow: none;
+  }
+
+  .testimonials-feedbacks-mila {
+    display: none;
+  }
+
+  .testimonials-feedbacks-michael-cap > img,
+  .testimonials-feedbacks-oskar-cap > img,
+  .testimonials-feedbacks-fredericka-cap > img {
+    width: 300px;
+    height: 300px;
+  }
+
+  .testimonials-feedbacks-michael-cap-text,
+  .testimonials-feedbacks-oskar-cap-text,
+  .testimonials-feedbacks-fredericka-cap-text {
+    justify-content: space-around;
+  }
+
+  .testimonials-feedbacks-michael-cap-text > h5,
+  .testimonials-feedbacks-oskar-cap-text > h5,
+  .testimonials-feedbacks-fredericka-cap-text > h5 {
+    font-size: 105px;
+  }
+
+  .testimonials-feedbacks-michael-cap-text > p,
+  .testimonials-feedbacks-oskar-cap-text > p,
+  .testimonials-feedbacks-fredericka-cap-text > p {
+    font-size: 84px;
+  }
+
+  .testimonials-feedbacks-michael-content > p,
+  .testimonials-feedbacks-oskar-content > p,
+  .testimonials-feedbacks-fredericka-content > p {
+    font-size: 84px;
+    line-height: 92px;
+  }
+
+  .testimonials-scrollbar {
+    display: none;
+  }
+
+  .testimonials-scrollbar-scroller {
+    display: none;
+  }
+
+  .testimonials-container > input {
+    width: 800px;
+    height: 150px;
+    font-size: 72px;
+    margin-top: 75px;
+    margin-right: 0;
+    border-radius: 150px;
+  }
+
+  footer {
+    padding: 60px 15px;
+  }
+
+  .footer-highest-block > img {
+    width: 320px;
+    height: 250px;
+  }
+
+  .footer-subscribe-submit > p {
+    font-size: 80px;
+  }
+
+  .footer-email {
+    width: 680px;
+    height: 150px;
+    font-size: 72px;
+  }
+
+  .footer-submit {
+    width: 350px;
+    height: 150px;
+    font-size: 80px;
+    margin-left: 30px;
+  }
+
+  footer > input {
+    width: 900px;
+    height: 150px;
+    font-size: 72px;
+    margin-top: 150px;
+    margin-left: 250px;
+    border-radius: 25px;
+  }
+
+  .footer-socials-nav-rights {
+    flex-direction: column;
+    align-items: center;
+    justify-content: baseline;
+  }
+
+  .footer-socials {
+    display: grid;
+    grid-template-columns: repeat(2, 600px);
+    grid-row-gap: 100px;
+    grid-column-gap: 170px;
+    margin-top: 150px;
+  }
+
+  .footer-socials-blocks {
+    margin-top: 0;
+    margin-right: 0;
+  }
+
+  .footer-socials-blocks-icon {
+    width: 120px;
+    height: 120px;
+    border-radius: 100px;
+  }
+
+  .footer-socials-blocks-icon > img {
+    width: 60px;
+    height: 60px;
+  }
+
+  .footer-socials-blocks > p {
+    font-size: 96px;
+  }
+
+  .footer-socials-nav-rights > nav {
+    margin-top: 150px;
+  }
+
+  .footer-socials-nav-rights > nav > ul {
+    margin-left: 70px;
+  }
+
+  .footer-socials-nav-rights > nav > ul > li {
+    margin-right: 40px;
+  }
+
+  .footer-socials-nav-rights > nav > ul > li > p {
+    font-size: 96px;
+    white-space: nowrap;
+  }
+
+  .footer-socials-nav-rights > p {
+    padding-left: 650px;
+    margin-top: 200px;
+    font-size: 72px;
+    margin-left: 0;
+  }
+
+  .footer-socials-nav-rights > p > br {
+    display: none;
+  }
+}
